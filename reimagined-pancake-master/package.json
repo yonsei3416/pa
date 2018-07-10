@@ -1,0 +1,22 @@
+{
+  "name": "reimagined-pancake",
+  "version": "1.0.0",
+  "description": "Multi-user Spotify playlist builder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keawade/reimagined-pancake.git"
+  },
+  "author": "keawade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keawade/reimagined-pancake/issues"
+  },
+  "homepage": "https://github.com/keawade/reimagined-pancake#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
